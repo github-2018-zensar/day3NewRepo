@@ -1,0 +1,1 @@
+This is a detailed instaltion guide for working with node
